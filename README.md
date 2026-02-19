@@ -180,6 +180,10 @@ Future modeling (Module 24) will include:
 
 The NSCH 2022 Public Use File is not included in this repository due to size restrictions. It can be downloaded directly from the U.S. Census Bureau NSCH website.
 
+## 📓 Notebook
+- Main analysis notebook: `notebook/Capstone1.2.ipynb`
+
+
 ---
 
 # 👩‍💻 Author  
