@@ -86,18 +86,10 @@ Visual analysis revealed:
 These findings suggest that both structural access and socioeconomic disadvantage influence screening likelihood.
 
 ### Visualizations
-
-Target distribution:  
-`images/dev_screen_distribution_0_3.png`
-
-Screening by FPL:  
-`images/screen_rate_by_fpl.png`
-
-Screening by Race/Ethnicity:  
-`images/screen_rate_by_race_ethnicity.png`
-
-Screening by Usual Preventive Care:  
-`images/screen_rate_by_usual_preventive_care.png`
+- Target distribution: [dev_screen_distribution_0_3.png](images/dev_screen_distribution_0_3.png)
+- Screening by FPL: [screen_rate_by_fpl.png](images/screen_rate_by_fpl.png)
+- Screening by Race/Ethnicity: [screen_rate_by_race_ethnicity.png](images/screen_rate_by_race_ethnicity.png)
+- Screening by Usual Preventive Care: [screen_rate_by_usual_preventive_care.png](images/screen_rate_by_usual_preventive_care.png)
 
 ---
 
